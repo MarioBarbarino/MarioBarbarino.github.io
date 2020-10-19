@@ -23,7 +23,7 @@ module Jekyll
         site.categories.each_key do |category|
           category_dir = File.join(dir, Utils.slugify(category))
           site.pages << CategoryPage.new(site, site.source, category_dir, category)
-        end
+
       end
     end
   end
