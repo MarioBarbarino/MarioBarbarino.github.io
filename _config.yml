@@ -1,15 +1,15 @@
 title: La rivisteria
-description: Le riviste letterarie pinzate assieme.
+description: Le riviste letterarie pinzate assieme
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    Mario Barbarino
+author-name:    La rivisteria
 author-image:   1.jpg
-author-job:     Web Developer
+author-job:     Rviste letterie 📚 | Racconti 😊| Belle cose ✨
 author-email:   rivisteria@gmail.com # Add your email for contant form.
-author-instagram: artemsheludko_ # Add your twitter account
-about-author:   Leggo 📚.
+author-twitter: artemsheludko_ # Add your twitter account
+about-author:   Le riviste letterarie pinzate assieme. I racconti per data di uscita nella home e organizzati per rivista nella sezione categorie.
 
 # Social settings
 social-twitter:   artemsheludko_
