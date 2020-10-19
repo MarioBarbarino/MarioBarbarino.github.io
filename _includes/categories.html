@@ -5,7 +5,7 @@
     <li class="c-categories__item">
       {% assign cat_dir = site.category_dir | default: 'category' %}
       <a class="c-categories__link" href="{{ site.baseurl }}/{{ cat_dir }}/{{ category | downcase | slugify }}/">
-        {% for post in site.categories[category] limit: 2 %}
+        {% for post in site.categories[category] limit: 1 %}
         {% assign empty-figure = nil %}
         {% if post.image %}
         <div class="c-categories__img">
