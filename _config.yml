@@ -9,7 +9,7 @@ author-image:   1.jpg
 author-job:     Riviste letterie 📚 | Racconti 😊| Belle cose ✨
 author-email:   rivisteria@gmail.com # Add your email for contant form.
 author-twitter: # Add your twitter account
-author-instagram: la_rivisteria # Add your instagram account
+author-instagram: larivisteria # Add your instagram account
 about-author:   Le riviste letterarie pinzate assieme. I racconti per data di uscita nella home e organizzati per rivista nella sezione categorie.
 
 # Copyrighr
@@ -20,7 +20,7 @@ social-twitter:
 social-facebook:
 social-github:   
 social-pinterest: 
-social-instagram: la_rivisteria
+social-instagram: larivisteria
 social-youtube:
 social-vk:   
 social-linkedin:
@@ -32,7 +32,7 @@ mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.
 google-analytics: # Add your identifier. For example UA-99631805-1
 
 # Comment Section (Disqus)
-disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: larivisteria # Add your shortname for Disqus Comment. For example mr-brown
 
 # Build settings
 markdown: kramdown
