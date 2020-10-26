@@ -21,14 +21,14 @@ It's so easy to do. Just define in front matter your image.
 
 ## Front Matter Code
 
-|Genova, 1830   	|Milano, 2020   	|
-|---	|---	|
+| Genova, 2020<br><br>Apre la libreria.<br>Siamo lieti di invitarvi. 	| Milano, 2020<br><br>Apre la rivisteria.<br>Siamo lieti di invitarvi, sarà bellissimo. 	|
+|:------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------:	|
 
 ~~~
 header:
 
     
-|Genova, 1830   	|Milano, 2020   	|
-|---	|---	|
+| Genova, 2020<br><br>Apre la libreria.<br>Siamo lieti di invitarvi. 	| Milano, 2020<br><br>Apre la rivisteria.<br>Siamo lieti di invitarvi, sarà bellissimo. 	|
+|:------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------:	|
 
 ~~~
