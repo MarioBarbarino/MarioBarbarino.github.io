@@ -23,7 +23,6 @@ It's so easy to do. Just define in front matter your image.
 | | |
 | :---------------                      | :--------------- |
 | Genova, 1830 | Milano, 2020 |
-
 | | |
 | :---------------:                         | :---------------: |
 | Row 1 Column 1 | Row 1 Column 2 |
