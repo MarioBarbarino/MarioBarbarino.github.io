@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Header with a Full-Width-Image"
+title:  "Apre la Rivisteria"
 subheadline:  "Headers With Style"
 teaser: "Feeling Responsive allows you to use all kinds of headers. This example shows a header with a <em>full-width-image</em>."
 categories:
@@ -23,7 +23,8 @@ It's so easy to do. Just define in front matter your image.
 
 ~~~
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+    Genova, 1830 | Milano, 2020
+    ------------ | -------------
+    Content cell 1 | Content cell 2
+    Content column 1 | Content column 2
 ~~~
