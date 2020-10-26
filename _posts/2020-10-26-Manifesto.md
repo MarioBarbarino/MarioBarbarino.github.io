@@ -24,7 +24,7 @@ It's so easy to do. Just define in front matter your image.
 | :---------------                      | :--------------- |
 | Genova, 1830 | Milano, 2020 |
 | | |
-| Row 1 Column 1 | Row 1 Column 2 |
+| Markdown is a great tool for documentation on Github because documentation is only as useful as it is readable. Among other things, Github's flavor of markdown allows for the creation of tables to display data in rows and columns. | Markdown is a great tool for documentation on Github because documentation is only as useful as it is readable. Among other things, Github's flavor of markdown allows for the creation of tables to display data in rows and columns. |
 | Row 2 Column 1 | Row 2 Column 2 |
 | Row 3 Column 1 | Row 3 Column 2 |
 
