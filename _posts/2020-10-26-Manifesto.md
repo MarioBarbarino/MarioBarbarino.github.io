@@ -21,8 +21,11 @@ It's so easy to do. Just define in front matter your image.
 
 ## Front Matter Code
 
-| Genova, 2020<br><br>Apre la libreria.<br>Siamo lieti di invitarvi. 	| Milano, 2020<br><br>Apre la rivisteria.<br>Siamo lieti di invitarvi, sarà bellissimo. 	|
-|:------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------:	|
+| Genova, 1830 | Milano, 2020 |
+| :---------------: | :---------------: |
+| Row 1 Column 1 | Row 1 Column 2 |
+| Row 2 Column 1 | Row 2 Column 2 |
+| Row 3 Column 1 | Row 3 Column 2 |
 
 ~~~
 header:
