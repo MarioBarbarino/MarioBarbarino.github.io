@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "Header with a Full-Width-Image"
 subheadline:  "Headers With Style"
 teaser: "Feeling Responsive allows you to use all kinds of headers. This example shows a header with a <em>full-width-image</em>."
@@ -12,7 +12,7 @@ tags:
 image:
    thumb: "bookblock.jpg"
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
+    image_fullwidth: "bookblock.jpg"
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 ---
