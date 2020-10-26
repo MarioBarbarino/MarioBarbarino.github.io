@@ -17,4 +17,9 @@
     {% endcapture %}
     {{ include_to_scssify | scssify }}
   </style>
+  
+{% if jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
+  
 </head>
