@@ -20,9 +20,8 @@ It's so easy to do. Just define in front matter your image.
 <!--more-->
 
 ## Front Matter Code
-| | |
-| :---------------                      | :--------------- |
 | Genova, 1830 | Milano, 2020 |
+| :---------------                      | :--------------- |
 | Markdown is a great tool for documentation on Github because documentation is only as useful as it is readable. Among other things, Github's flavor of markdown allows for the creation of tables to display data in rows and columns. | Markdown is a great tool for documentation on Github because documentation is only as useful as it is readable. Among other things, Github's flavor of markdown allows for the creation of tables to display data in rows and columns. |
 
 ~~~
