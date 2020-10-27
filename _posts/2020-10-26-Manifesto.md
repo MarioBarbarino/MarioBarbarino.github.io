@@ -66,16 +66,9 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 #### Syntax Highlighter
 
 {% highlight js %}
-  $('.top').click(function () {
-    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
-  });
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > $(window).height()) {
-      $('.top').addClass("top-active");
-    } else {
-      $('.top').removeClass("top-active");
-    };
-  });
+| Genova                                                             	| Milano                                       |
+|:--------------------------------------------------------------------	|:----------------------------------------------|
+|Apre la libreria. Siamo lieti di invitarvi. 	| Apre la rivisteria. Siamo lieti di invitarvi, sarà bellissimo. Prova Prova ProvaProva Prova Prova Prova  Prova Prova Prova Prova Prova Prova Prova   	|
 {% endhighlight %}
 
 ***
@@ -91,9 +84,3 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 ###### Youtube
 
 <iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
-
-## Front Matter Code
-
-| Genova                                                             	| Milano                                                                                |
-|--------------------------------------------------------------------	|----------------------------------------------|
-|Apre la libreria. Siamo lieti di invitarvi. 	| Apre la rivisteria. Siamo lieti di invitarvi, sarà bellissimo. Prova Prova Prova Prova Prova Prova  	|
