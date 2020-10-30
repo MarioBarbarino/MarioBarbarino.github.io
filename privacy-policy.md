@@ -1,9 +1,10 @@
 ---
-layout: home
+layout: default
 title: Privacy Policy
+permalink: /privacy-policy/
 ---
 
-Informativa estesa sull’uso dei cookie
+## Informativa estesa sull’uso dei cookie
 Il presente sito web utilizza cookie tecnici per garantire il corretto funzionamento delle procedure e migliorare l’esperienza di uso delle applicazioni online. Il presente documento fornisce informazioni sull’uso dei cookie e di tecnologie similari, su come sono utilizzati dal sito e su come gestirli.
 Definizioni
 I cookie sono piccoli file di testo che i siti visitati dagli utenti inviano ai loro terminali, ove vengono memorizzati per essere poi ritrasmessi agli stessi siti alla visita successiva. I cookie delle c.d. “terze parti” vengono, invece, impostati da un sito web diverso da quello che l’utente sta visitando. Questo perché su ogni sito possono essere presenti elementi (immagini, mappe, suoni, specifici link a pagine web di altri domini, ecc.) che risiedono su server diversi da quello del sito visitato.
