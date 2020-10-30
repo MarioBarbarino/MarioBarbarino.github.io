@@ -15,7 +15,7 @@ Quando visiti il presente sito web possiamo raccogliere l’indirizzo IP, inform
 Nel caso venga inserito un commento o venga inviata una mail tramite apposito applicativo verranno raccolte le seguenti tipologie di dati: nome, email, indirizzo IP e sito web (facoltativo).
 Inoltre, il presente sito web utilizza cookie tecnici per garantire il corretto funzionamento delle procedure e migliorare l’esperienza di uso delle applicazioni online. Il presente documento fornisce informazioni sull’uso dei cookie e di tecnologie similari, su come sono utilizzati dal sito e su come gestirli.
 
-#####C osa sono i cookies
+##### Cosa sono i cookies
 
 I cookies sono informazioni salvate sul disco fisso del terminale dell’utente e che sono inviate dal browser dell’utente a un Web server e che si riferiscono all’utilizzo della rete. Di conseguenza, permettono di conoscere i servizi, i siti frequentati e le opzioni che, navigando in rete, sono state manifestate. In altri termini, i cookies sono piccoli file, contenenti lettere e numeri, che vengono scaricati sul computer o dispositivo mobile dell’utente quando si visita un sito Web. I cookies vengono poi re-inviati al sito originario a ogni visita successiva, o a un altro sito Web che riconosce questi cookies. I cookies sono utili poiché consentono a un sito Web di riconoscere il dispositivo dell’utente.
 
