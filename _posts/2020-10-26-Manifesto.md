@@ -52,4 +52,4 @@ Mail: rivisteria@gmail.com
 
 Contact Form in Homepage
 
-Instagram: `[larivisteria](https://www.instagram.com/larivisteria/)`
+Instagram: [larivisteria](https://www.instagram.com/larivisteria/)
