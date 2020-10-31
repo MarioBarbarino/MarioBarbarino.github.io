@@ -27,6 +27,12 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 ***
 
+First Header | Second Header
+------------ | -------------
+Content cell 1 | Content cell 2
+Content column 1 | Content column 2
+
+
 #### Lists
 
 ###### Ordered list example:
