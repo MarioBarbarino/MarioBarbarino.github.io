@@ -6,6 +6,9 @@ date: 2020-10-26 13:35:20 +0200
 tags:
 categories: la-rivisteria
 ---
+
+##### Manifesto
+
 **Benvenuti in Rivisteria**. La Rivisteria è un progetto che nasce per
 
 {% highlight markdown %}
@@ -24,7 +27,7 @@ categories: la-rivisteria
 
 
 
-Nel 1833, al piano terreno della sua abitazione, al n. 784 di Strada Novissima a Genova, Marc Antoine Boeuf apriva la *prima libreria d'Italia*. Nel 2020, nella realtà ubiqua del web, apre la *prima rivisteria online*.
+Nel 1833, al piano terreno della sua abitazione, al n. 784 di Strada Novissima a Genova, Marc Antoine Boeuf apriva la `prima libreria d'Italia`. Nel 2020, nella realtà ubiqua del web, apre la `prima rivisteria online`.
 
 Gazzetta di Genova, 1833 | La Rivisteria, 2020
 ------------ | -------------
@@ -34,6 +37,8 @@ Motto: *Aut prodesse aut delectare* | Motto: *Aut disponere aut delectare*
 ***
 
 
+
+##### Copyright
 
 Il sito si basa sulla teconologia dei `Feed RSS`. Il contenuto e la profondità storica degli articoli presenti sul sito dipende dalla configurazione dei Feed RSS messsi a disposizione dalle redazioni delle riviste letterarie online. Si segnala inoltre che non tutti i siti internet delle riviste letterie dispongono di Feed RSS con la conseguenza che 
 
@@ -45,14 +50,19 @@ Inoltre, il sito non detiene alcun diritto sul contenuto dei post e sulle relati
 
 Sono da intendersi invece di esclusiva proprietà della Rivisteria i contenuti dei post pubblicati nella categoria dedicata *la-rivisteria*, così come l'immagine di profilo.
 
+***
 
-###### PER SEGNALAZIONI DI `RIVISTE LETTERARIE ONLINE MANCANTI` O QUALUNQUE `ALTRA COMUNICAZIONE`
 
-<a href="mailto:rivisteria@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+##### Contatti
+
+{% highlight js %}
 Mail: `rivisteria@gmail.com`
-`Contact Form` in Homepage
-Instagram: `[![larivisteria]](https://www.instagram.com/larivisteria/)`
 
+`Contact Form` in Homepage
+
+Instagram: `[larivisteria](https://www.instagram.com/larivisteria/)`
+{% endhighlight %}
 
 ***
 
@@ -60,9 +70,7 @@ Instagram: `[![larivisteria]](https://www.instagram.com/larivisteria/)`
 
 #### Syntax Highlighter
 
-{% highlight js %}
-Hightlighted text
-{% endhighlight %}
+
 
 ***
 
