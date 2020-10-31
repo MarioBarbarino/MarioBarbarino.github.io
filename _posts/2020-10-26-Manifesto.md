@@ -10,6 +10,15 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 ***
 
+
+
+Gazzetta di Genova, 1833 | La Rivisteria, 2020
+------------ | -------------
+Gli amatori delle scienze e della letteratura vi troveranno un assortimento di libri matematici, legali, di letteratura e libri ascetici, tanto francesi che inglesi ed italiani, come pure libri di divozione legati elegantemente, globi terraqui e sfere di diverse grandezze. Il sig. Beuf è ugualmente determinato a stabilirvi un Gabinetto di Lettura ove si trovano libri, giornali francesi, italiani ed inglesi come anche giornali di letteratura e di scienze. | Gli amatori delle scienze e della letteratura vi troveranno un assortimento di libri matematici, legali, di letteratura e libri ascetici, tanto francesi che inglesi ed italiani, come pure libri di divozione legati elegantemente, globi terraqui e sfere di diverse grandezze. Il sig. Beuf è ugualmente determinato a stabilirvi un Gabinetto di Lettura ove si trovano libri, giornali francesi, italiani ed inglesi come anche giornali di letteratura e di scienze.
+
+
+
+
 #### Headings by default:
 
 # H1 For example
@@ -27,10 +36,6 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 ***
 
-First Header | Second Header
------------- | -------------
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
 
 
 #### Lists
@@ -72,9 +77,7 @@ Content column 1 | Content column 2
 #### Syntax Highlighter
 
 {% highlight js %}
-| Genova                                                             	| Milano                                       |
-|:--------------------------------------------------------------------	|:----------------------------------------------|
-|Apre la libreria. Siamo lieti di invitarvi. 	| Apre la rivisteria. Siamo lieti di invitarvi, sarà bellissimo. Prova Prova ProvaProva Prova Prova Prova  Prova Prova Prova Prova Prova Prova Prova   	|
+Hightlighted text
 {% endhighlight %}
 
 ***
