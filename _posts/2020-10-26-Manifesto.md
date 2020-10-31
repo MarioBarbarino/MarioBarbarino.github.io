@@ -6,17 +6,15 @@ date: 2020-10-26 13:35:20 +0200
 tags:
 categories: la-rivisteria
 ---
-A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan laisticle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
+**Benvenuti in Rivisteria**. La Rivisteria è un progetto che nasce per
+> offrire uno scaffale semplice e ordinato per la lettura delle riviste letterarie.
 
+Nel 1833 nasceva a Genova
 ***
-
-
 
 Gazzetta di Genova, 1833 | La Rivisteria, 2020
 ------------ | -------------
-Gli amatori delle scienze e della letteratura vi troveranno un assortimento di libri matematici, legali, di letteratura e libri ascetici, tanto francesi che inglesi ed italiani, come pure libri di divozione legati elegantemente, globi terraqui e sfere di diverse grandezze. Il sig. Beuf è ugualmente determinato a stabilirvi un Gabinetto di Lettura ove si trovano libri, giornali francesi, italiani ed inglesi come anche giornali di letteratura e di scienze. | Gli amatori delle scienze e della letteratura vi troveranno un assortimento di libri matematici, legali, di letteratura e libri ascetici, tanto francesi che inglesi ed italiani, come pure libri di divozione legati elegantemente, globi terraqui e sfere di diverse grandezze. Il sig. Beuf è ugualmente determinato a stabilirvi un Gabinetto di Lettura ove si trovano libri, giornali francesi, italiani ed inglesi come anche giornali di letteratura e di scienze.
-
-
+Gli amatori delle scienze e della letteratura vi troveranno un assortimento di libri matematici, legali, di letteratura e libri ascetici, tanto francesi che inglesi ed italiani, come pure libri di divozione legati elegantemente, globi terraqui e sfere di diverse grandezze. Il sig. Beuf è ugualmente determinato a stabilirvi un Gabinetto di Lettura ove si trovano libri, giornali francesi, italiani ed inglesi come anche giornali di letteratura e di scienze. | Gli amatori della lettura vi troveranno un assortimento di racconti e articoli, tanto di finzione che di critica letteraria, come pure storie che non hanno altro scopo se non quello nobile di render più lieve la nostra sfera terracque che oggi, più che in altri tempi, ci scuote. Sugli scaffali della Rivisteria, i graditi ospiti troveranno ogni giorno, ordinati per rivista e per data di pubblicazione, il prezioso lavoro di tante e tante riviste letterarie online disseminate nel web. 
 
 
 #### Headings by default:
