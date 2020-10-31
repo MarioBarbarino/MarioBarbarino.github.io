@@ -7,13 +7,19 @@ tags:
 categories: la-rivisteria
 ---
 **Benvenuti in Rivisteria**. La Rivisteria è un progetto che nasce per
-```
-* offrire uno **scaffale semplice e ordinato** per la lettura delle riviste letterarie
-```
 
-```
+{% highlight markdown %}
+* offrire uno **scaffale semplice e ordinato** per la lettura delle riviste letterarie
+{% endhighlight %}
+
+{% highlight markdown %}
 * ampliare la **visibilità delle riviste letterarie** allargandone la platea di lettori.
-```
+{% endhighlight %}
+
+> * offrire uno **scaffale semplice e ordinato** per la lettura delle riviste letterarie
+
+> * ampliare la **visibilità delle riviste letterarie** allargandone la platea di lettori.
+
 ***
 
 
@@ -29,75 +35,28 @@ Motto: *Aut prodesse aut delectare* | Motto: *Aut disponere aut delectare*
 
 
 
-Il sito si basa sulla teconologia dei `Feed RSS`. Il contenuto e la profondità storica degli articoli presenti sul sito dipende dalla configurazione dei Feed RSS messsi a disposizione dalle redazioni delle riviste letterarie.
+Il sito si basa sulla teconologia dei `Feed RSS`. Il contenuto e la profondità storica degli articoli presenti sul sito dipende dalla configurazione dei Feed RSS messsi a disposizione dalle redazioni delle riviste letterarie online. Si segnala inoltre che non tutti i siti internet delle riviste letterie dispongono di Feed RSS con la conseguenza che 
 
-Qualunque contributo nella segnalazione di riviste letterarie mancanti o di inesattezze sarà infinitamente apprezzato.
+Qualunque contributo nella segnalazione di riviste letterarie mancanti, di suggerimenti o di inesattezze sarà infinitamente apprezzato.
 
 Il presente sito non costituisce un prodotto editoriale ai sensi della Legge. n. 62 del 2001. Non ha carattere periodico ed è aggiornato secondo la disponibilità e la reperibilità dei contenuti.
 
-Questo sito non detiene alcun diritto sul contenuto dei post e sulle relative immagini che sono di esclusiva proprietà del sito da cui provengono. Espresso riferimento alla rivista letteraria di provenienza e al link originale dell'articolo è fatto in ogni post pubblicato sul sito. Eccezione la rivisteria------
+Inoltre, il sito non detiene alcun diritto sul contenuto dei post e sulle relative immagini che sono di esclusiva proprietà dei siti da cui provengono. Espresso riferimento alla rivista letteraria editrice e al link originale dell'articolo è indicato in ogni post pubblicato nella Homepage e nella sezione Racconti. La Rivisteria non è responsabile per quanto riportato nei predetti post. Eventuali violazioni di diritti possono essere segnalate tramite i canali sotto riportati.
 
-Se nel sito utilizziamo del materiale di proprietà di altre persone, indicheremo il sito e l’autore  a cui ci siamo ispirati e da cui abbiamo preso i contenuti (anche fotografici) in modo che possano essere riconosciuti i giusti diritti.
-
-Gli autori non sono responsabili per quanto pubblicato dai lettori nei commenti ai post. Le immagini pubblicate sono in parte produzione personale e in parte tratte da internet: qualora la loro pubblicazione violasse eventuali diritti d’autore, vi preghiamo di comunicarcelo.
+Sono da intendersi invece di esclusiva proprietà della Rivisteria i contenuti dei post pubblicati nella categoria dedicata *la-rivisteria*, così come l'immagine di profilo.
 
 
+###### PER SEGNALAZIONI DI `RIVISTE LETTERARIE ONLINE MANCANTI` O QUALUNQUE `ALTRA COMUNICAZIONE`
 
+<a href="mailto:rivisteria@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+Mail: `rivisteria@gmail.com`
+`Contact Form` in Homepage
+Instagram: `[![larivisteria]](https://www.instagram.com/larivisteria/)`
 
-#### Headings by default:
-
-# H1 For example
-## H2 For example
-### H3 For example
-#### H4 For example
-##### H5 For example
-###### H6 For example
-
-{% highlight markdown %}
-## Heading first level
-### Heading second level
-#### Heading third level
-{% endhighlight %}
 
 ***
 
 
-
-#### Lists
-
-###### Ordered list example:
-
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
-
-###### Unordered list example:
-
-* Bitters semiotics vice thundercats synth.
-* Literally cred narwhal bitters wayfarers.
-* Kale chips chartreuse paleo tbh street art marfa.
-* Mlkshk polaroid sriracha brooklyn.
-* Pug you probably haven't heard of them air plant man bun.
-
-{% highlight markdown %}
-1. Order list item 1
-2. Order list item 1
-
-* Unordered list item 1
-* Unordered list item 2
-{% endhighlight %}
-
-***
-
-#### Quotes
-
-###### A quote looks like this:
-
-> Never put off till tomorrow what may be done day after tomorrow just as well. — Mark Twain
-
-***
 
 #### Syntax Highlighter
 
