@@ -2,9 +2,7 @@
 layout: post
 title: Manifesto e copyright
 image: bookblock.jpg
-date: 2020-10-26 13:35:20 +0200
-tags:
-categories: la-rivisteria
+permalink: /manifesto-copyright/
 ---
 
 ##### Manifesto
