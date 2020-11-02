@@ -4,7 +4,6 @@ title: Privacy policy
 permalink: /privacy-policy/
 ---
 
-# Privacy policy
 
 ### Informativa estesa sulla privacy e l'utilizzo dei cookies
 
@@ -14,6 +13,10 @@ permalink: /privacy-policy/
 Quando visiti il presente sito web possiamo raccogliere l’indirizzo IP, informazioni sul dispositivo usato per visualizzare il sito.
 Nel caso venga inserito un commento o venga inviata una mail tramite apposito applicativo verranno raccolte le seguenti tipologie di dati: nome, email, indirizzo IP e sito web (facoltativo).
 Inoltre, il presente sito web utilizza cookie tecnici per garantire il corretto funzionamento delle procedure e migliorare l’esperienza di uso delle applicazioni online. Il presente documento fornisce informazioni sull’uso dei cookie e di tecnologie similari, su come sono utilizzati dal sito e su come gestirli.
+
+***
+
+
 
 ##### Cosa sono i cookies
 
@@ -34,7 +37,10 @@ Cookies di navigazione o di sessione: garantiscono la normale navigazione e frui
 Cookies analytics: se sono utilizzati soltanto per raccogliere informazioni in forma aggregata, sul numero di utenti che visitano il sito e come lo visitano
 Cookies di funzionalità: permettono all’utente di navigare in base a una serie di criteri selezionati (es.: lingua o servizi cui si è aderito) per migliorare il servizio reso all’utente.
 Cookies di profilazione: sono volti a creare profili relativi all’utente e utilizzati per inviare messaggi promozionali mirati in funzione delle preferenze manifestate durante la sua navigazione in rete. Questi cookies sono utilizzabili per tali scopi soltanto con il consenso dell’utente.
- 
+
+***
+
+
 
 ##### Come sono utilizzati i cookies da questo sito
 
@@ -43,6 +49,9 @@ Le terzi parti Google Analytics e Youtube utilizzano all'interno di questo sito 
 conoscere il numero totale di visitatori in modo continuativo oltre ai tipi di browser (ad es. Firefox, Safari o Internet Explorer / Microsoft Edge) e sistemi operativi (ad es. Windows o Macintosh) utilizzati;
 monitorare le prestazioni del sito, incluso il modo in cui i visitatori lo utilizzano, nonché per migliorarne le funzionalità.
  
+***
+
+
 
 ##### Quali categorie di cookies utilizziamo e come possono essere gestiti dall’utente
 
@@ -52,7 +61,9 @@ I cookie tecnici sono quelli utilizzati al solo fine di “effettuare la trasmis
 ###### • Cookie di profilazione.
 I cookie di profilazione sono volti a creare profili relativi all’utente e vengono utilizzati al fine di inviare messaggi pubblicitari in linea con le preferenze manifestate dallo stesso nell’ambito della navigazione in rete. In ragione della particolare invasività che tali dispositivi possono avere nell’ambito della sfera privata degli utenti, la normativa europea e italiana prevede che l’utente debba essere adeguatamente informato sull’uso degli stessi ed esprimere così il proprio valido consenso. Ad essi si riferisce l’art. 122 del Codice laddove prevede che “l’archiviazione delle informazioni nell’apparecchio terminale di un contraente o di un utente o l’accesso a informazioni già archiviate sono consentiti unicamente a condizione che il contraente o l’utente abbia espresso il proprio consenso dopo essere stato informato con le modalità semplificate di cui all’articolo 13, comma 3” (art. 122, comma 1, del Codice). Il presente sito non utilizza cookie di profilazione.
 
- 
+***
+
+
 
 ##### Come controllare o eliminare i cookies
 
