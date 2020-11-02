@@ -6,12 +6,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # Author
 author-name:    La rivisteria
 author-image:   1.jpg
-author-job:     80+ Riviste letterarie e lit-blog 📚 | 1000+ Racconti 💬 | Ogni giorno ✨
+author-job:     80+ Riviste letterarie 📚 | 1000+ Racconti 💬 | Ogni giorno ✨
 author-email:   rivisteria@gmail.com # Add your email for contant form.
 author-formspree:   f/xeqpkkjq # Add your Formspree endpoint
 author-twitter: # Add your twitter account
 author-instagram: larivisteria # Add your instagram account
-about-author:   Sugli scaffali della Rivisteria, ogni giorno freschi di stampa, i racconti e gli articoli di tante molte riviste letterarie, ordinati per rivista e per data di pubblicazione, gli articoli di tante riviste letterarie online disseminate nel web.
+about-author:   Sugli scaffali della Rivisteria, ogni giorno freschi di stampa, i racconti e gli articoli di molte riviste letterarie, ordinati per rivista e per data di pubblicazione.
 
 # Copyright
 copyright-name: Mario Barbarino
