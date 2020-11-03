@@ -2,7 +2,7 @@
 layout: post
 title: Apre la Rivisteria
 image: bookblock.jpg
-date: 2020-10-26 13:35:20 +0200
+date: 2020-11-03 13:35:20 +0200
 tags:
 categories: la-rivisteria
 ---
@@ -15,15 +15,13 @@ categories: la-rivisteria
 
 > * ampliare la **visibilità delle riviste letterarie** allargandone la platea di lettori.
 
-***
-
 
 
 Nel 1833, al piano terreno della sua abitazione, al n. 784 di Strada Novissima a Genova, Marc Antoine Boeuf apriva la `prima libreria d'Italia`. Nel 2020, nella realtà ubiqua del web, nasce la `prima rivisteria online`.
 
-Gazzetta di Genova, 1833 || La Rivisteria, 2020
+Libreria Bozzi, 1833 || La Rivisteria, 2020
 ------------ || -------------
-Gli amatori delle scienze e della letteratura vi troveranno un assortimento di libri matematici, legali, di letteratura e libri ascetici, tanto francesi che inglesi ed italiani, come pure libri di divozione legati elegantemente, globi terraqui e sfere di diverse grandezze. Il sig. Beuf è ugualmente determinato a stabilirvi un Gabinetto di Lettura ove si trovano libri, giornali francesi, italiani ed inglesi come anche giornali di letteratura e di scienze.|| Gli amatori della lettura vi troveranno un assortimento di racconti e articoli, tanto di finzione che di critica letteraria, come pure storie che non hanno altro scopo se non quello nobile di render più lieve la nostra sfera terracque che oggi, più che in altri tempi, ci scuote. Sugli scaffali della Rivisteria, i graditi ospiti troveranno ogni giorno, ordinati per rivista e per data di pubblicazione, il prezioso lavoro di tante e tante riviste letterarie online disseminate nel web.
+Gli amatori delle scienze e della letteratura vi troveranno un assortimento di libri matematici, legali, di letteratura e libri ascetici, tanto francesi che inglesi ed italiani, come pure libri di divozione legati elegantemente, globi terraqui e sfere di diverse grandezze. Il sig. Boeuf è ugualmente determinato a stabilirvi un Gabinetto di Lettura ove si trovano libri, giornali francesi, italiani ed inglesi come anche giornali di letteratura e di scienze.|| Gli amatori della lettura vi troveranno un assortimento di racconti e articoli, tanto di finzione che di critica letteraria, come pure storie che non hanno altro scopo se non quello nobile di render più lieve la nostra sfera terracque che oggi, più che in altri tempi, ci scuote. Sugli scaffali della Rivisteria, i graditi ospiti troveranno ogni giorno, ordinati per rivista e per data di pubblicazione, i preziosi lavori di tante e tante riviste letterarie online disseminate nel web.
 Motto: *Aut prodesse aut delectare* || Motto: *Aut disponere aut delectare*
 
 ***
@@ -32,7 +30,7 @@ Motto: *Aut prodesse aut delectare* || Motto: *Aut disponere aut delectare*
 
 ##### Copyright
 
-Il sito si basa sulla teconologia dei `Feed RSS`. Il contenuto e la profondità storica degli articoli presenti sul sito dipende dalla configurazione dei Feed RSS messsi a disposizione dalle redazioni delle riviste letterarie online. Si segnala inoltre che non tutti i siti internet delle riviste letterie dispongono di Feed RSS con la conseguenza che 
+Il sito si basa sulla teconologia dei `Feed RSS`. Il contenuto e la profondità storica degli articoli presenti sul sito dipende dalla configurazione dei Feed RSS messi a disposizione dalle redazioni delle riviste letterarie online.
 
 Qualunque contributo nella segnalazione di riviste letterarie mancanti, di suggerimenti o di inesattezze sarà infinitamente apprezzato.
 
