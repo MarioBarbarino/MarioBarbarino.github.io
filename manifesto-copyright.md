@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Manifesto e copyright
-image: bookblock.jpg
 permalink: /manifesto-copyright/
 ---
 
