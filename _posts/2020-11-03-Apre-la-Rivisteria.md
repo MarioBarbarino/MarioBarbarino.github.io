@@ -2,7 +2,7 @@
 layout: post
 title: Apre la Rivisteria
 image: Important-days.jpg
-date: 2020-11-03 13:35:20 +0200
+date: 2020-11-03 21:40:20 +0200
 tags:
 categories: la-rivisteria
 ---
