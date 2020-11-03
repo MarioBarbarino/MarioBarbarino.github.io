@@ -1,11 +1,11 @@
-title: La rivisteria (PROVA)
+title: La Rivisteria (versione beta)
 description: Le riviste letterarie pinzate assieme
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    La rivisteria
-author-image:   1.jpg
+author-name:    La Rivisteria
+author-image:   Tondo20201103.jpg
 author-job:     80+ Riviste letterarie 📚 | 1000+ Racconti 💬 | Ogni giorno ✨
 author-email:   rivisteria@gmail.com # Add your email for contant form.
 author-formspree:   f/xeqpkkjq # Add your Formspree endpoint
