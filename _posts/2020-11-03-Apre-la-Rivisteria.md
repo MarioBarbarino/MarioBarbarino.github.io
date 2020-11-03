@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apre la Rivisteria
-image: bookblock.jpg
+image: Important-days.jpg
 date: 2020-11-03 13:35:20 +0200
 tags:
 categories: la-rivisteria
