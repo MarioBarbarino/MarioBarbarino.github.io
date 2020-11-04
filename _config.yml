@@ -1,17 +1,17 @@
-title: La Rivisteria (versione beta)
+title: la Rivisteria (versione beta)
 description: Le riviste letterarie pinzate assieme
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    La Rivisteria
+author-name:    la Rivisteria
 author-image:   Tondo20201103.jpg
-author-job:     80+ Riviste letterarie 📚 | 1000+ Racconti 💬 | Ogni giorno ✨
+author-job:     80+ riviste letterarie 📚 | 1000+ racconti 💬
 author-email:   rivisteria@gmail.com # Add your email for contant form.
 author-formspree:   f/xeqpkkjq # Add your Formspree endpoint
 author-twitter: # Add your twitter account
 author-instagram: larivisteria # Add your instagram account
-about-author:   Sugli scaffali della Rivisteria, ogni giorno freschi di stampa, i racconti e gli articoli di molte riviste letterarie, ordinati per rivista e per data di pubblicazione.
+about-author:   Sugli scaffali della Rivisteria, ogni giorno freschi di stampa, i racconti e gli articoli di molte riviste letterarie.
 
 # Copyright
 copyright-name: Mario Barbarino
