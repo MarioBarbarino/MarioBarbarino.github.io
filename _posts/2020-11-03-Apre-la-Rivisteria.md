@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apre la Rivisteria
-image: Important-days.jpg
+image: announce.jpg
 date: 2020-11-03 21:40:20 +0200
 tags:
 categories: la-rivisteria
