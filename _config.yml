@@ -41,7 +41,7 @@ permalink: /:year/:month/:day/:title/
 plugins:
   - jekyll-paginate
 
-paginate: 15 # Number of posts in homepage
+paginate: 25 # Number of posts in homepage
 paginate_path: "/page/:num/"
 
 include:
