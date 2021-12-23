@@ -46,17 +46,17 @@ permalink: /random-post/
             if (counter == (numberOfPosts - 1))
             {
                  <article class="c-post">
-                {% if ' + postImage + ' %}
-                <a class="c-post-thumbnail o-opacity" style="background-image: url({{"/images/" | prepend: site.baseurl | append : ' + postImage + '}})"
-                    href="{{' + postHREF + '| prepend: site.baseurl}}"></a>
+                {% if postImage %}
+                <a class="c-post-thumbnail o-opacity" style="background-image: url({{"/images/" | prepend: site.baseurl | append : postImage}})"
+                    href="{{postHREF | prepend: site.baseurl}}"></a>
                 {% else %} {% endif %}
                 <div class="c-post-content">
                   <h2 class="c-post-title">
-                    <a href="{{' + postHREF + ' | prepend: site.baseurl}}">{{' + postTitle + '}}</a>
+                    <a href="{{postHREF | prepend: site.baseurl}}">{{postTitle}}</a>
                   </h2>
-                  <p>{{ ' + postContent + ' | strip_html | truncatewords: 15 }}</p>
-                  <span class="c-post-date">{{' + postDate + ' | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
-                  <span class="c-post-words">{% capture words %}{{ ' + postContent + ' | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words |
+                  <p>{{postContent | strip_html | truncatewords: 15 }}</p>
+                  <span class="c-post-date">{{postDate | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
+                  <span class="c-post-words">{% capture words %}{{postContent | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words |
                       plus: 250 | divided_by: 250 | append: " minuti di lettura" }}{% endunless %}</span>
                 </div>
               </article>
