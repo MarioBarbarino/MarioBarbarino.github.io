@@ -8,13 +8,7 @@ permalink: /random-post/
 
     var postsHREF = [{% for post in site.posts %}"{{ post.url }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
 
-    var postsTitle = [{% for post in site.posts %}"{{ post.title }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
-    
-    var postsDate = [{% for post in site.posts %}"{{ post.date }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
-                                                                                                            
-    var postsContent = [{% for post in site.posts %}"{{ post.content }}"{% unless forloop.last %},{% endunless %}{% endfor %}];                                                                                                          
-
-    var postsImage = [{% for post in site.posts %}"{{ post.image }}"{% unless forloop.last %},{% endunless %}{% endfor %}];  
+    var postsTitle = [{% for post in site.posts %}"{{ post.title }}"{% unless forloop.last %},{% endunless %}{% endfor %}]; 
                                                                                                                   
 </script>
 
