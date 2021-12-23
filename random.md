@@ -6,6 +6,14 @@ permalink: /random-post/
 
 <script type="text/javascript">
 
+    var postsHREF = [{% for post in site.posts %}"{{ post.url }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+
+    var postsTitle = [{% for post in site.posts %}"{{ post.title }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+
+</script>
+
+<script type="text/javascript">
+
     var randomIndexUsed = [];
     var counter = 0;
     var numberOfPosts = 5;
