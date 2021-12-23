@@ -46,7 +46,7 @@ permalink: /random-post/
             if (counter == (numberOfPosts - 1))
             {
                  <article class="c-post">
-                {% if postImage %}
+                {% if ' + postImage + ' %}
                 <a class="c-post-thumbnail o-opacity" style="background-image: url({{"/images/" | prepend: site.baseurl | append : ' + postImage + '}})"
                     href="{{' + postHREF + '| prepend: site.baseurl}}"></a>
                 {% else %} {% endif %}
