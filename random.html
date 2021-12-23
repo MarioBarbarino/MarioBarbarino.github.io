@@ -29,9 +29,6 @@ permalink: /random-post/
         var randomIndex;
         var postHREF;
         var postTitle;
-        var postDate;
-        var postContent;
-        var postImage;
 
         randomIndex = Math.floor(Math.random() * postsHREF.length);
 
@@ -39,9 +36,6 @@ permalink: /random-post/
         {
             postHREF = postsHREF[randomIndex];
             postTitle = postsTitle[randomIndex];
-            postDate = postsDate[randomIndex];
-            postContent = postsContent[randomIndex];
-            postImage = postsImage[randomIndex];
 
             if (counter == (numberOfPosts - 1))
             {
@@ -49,7 +43,7 @@ permalink: /random-post/
             }
             else
             {
-                 document.write('<p><a href="' + postHREF + '">' + postTitle + '</a></p><hr />');
+                document.write('<p><a href="' + postHREF + '">' + postTitle + '</a></p><hr />');
             }
 
             randomIndexUsed.push(randomIndex);
@@ -58,4 +52,5 @@ permalink: /random-post/
         }
     }
 
+</script>
 </script>
