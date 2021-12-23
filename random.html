@@ -1,0 +1,75 @@
+---
+layout: post
+title: Una lettura per te
+permalink: /random-post/
+---
+
+<script type="text/javascript">
+
+    var postsHREF = [{% for post in site.posts %}"{{ post.url }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+
+    var postsTitle = [{% for post in site.posts %}"{{ post.title }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+    
+    var postsDate = [{% for post in site.posts %}"{{ post.date }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+                                                                                                            
+    var postsContent = [{% for post in site.posts %}"{{ post.content }}"{% unless forloop.last %},{% endunless %}{% endfor %}];                                                                                                          
+
+    var postsImage = [{% for post in site.posts %}"{{ post.image }}"{% unless forloop.last %},{% endunless %}{% endfor %}];  
+                                                                                                                  
+</script>
+
+<script type="text/javascript">
+
+    var randomIndexUsed = [];
+    var counter = 0;
+    var numberOfPosts = 5;
+
+    while (counter < numberOfPosts)
+    {
+        var randomIndex;
+        var postHREF;
+        var postTitle;
+        var postDate;
+        var postContent;
+        var postImage;
+
+        randomIndex = Math.floor(Math.random() * postsHREF.length);
+
+        if (randomIndexUsed.indexOf(randomIndex) == "-1")
+        {
+            postHREF = postsHREF[randomIndex];
+            postTitle = postsTitle[randomIndex];
+            postDate = postsDate[randomIndex];
+            postContent = postsContent[randomIndex];
+            postImage = postsImage[randomIndex];
+
+            if (counter == (numberOfPosts - 1))
+            {
+                 <article class="c-post">
+                {% if post.image %}
+                <a class="c-post-thumbnail o-opacity" style="background-image: url({{"/images/" | prepend: site.baseurl | append : ' + postImage + '}})"
+                    href="{{' + postHREF + '| prepend: site.baseurl}}"></a>
+                {% else %} {% endif %}
+                <div class="c-post-content">
+                  <h2 class="c-post-title">
+                    <a href="{{' + postHREF + ' | prepend: site.baseurl}}">{{' + postTitle + '}}</a>
+                  </h2>
+                  <p>{{ ' + postContent + ' | strip_html | truncatewords: 15 }}</p>
+                  <span class="c-post-date">{{' + postDate + ' | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
+                  <span class="c-post-words">{% capture words %}{{ ' + postContent + ' | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words |
+                      plus: 250 | divided_by: 250 | append: " minuti di lettura" }}{% endunless %}</span>
+                </div>
+              </article>
+            }
+            else
+            {
+                document.write('<p><a href="' + postHREF + '">' + postTitle + '</a></p><hr />');
+            }
+
+            randomIndexUsed.push(randomIndex);
+
+            counter++;
+        }
+    }
+
+</script>
