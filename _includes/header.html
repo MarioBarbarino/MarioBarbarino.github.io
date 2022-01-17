@@ -1,38 +1,29 @@
 <script type="text/javascript">
 
     var postsHREF = [{% for post in site.posts offset:1 limit:1000 %}"{{ post.url }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
-
     var postsTitle = [{% for post in site.posts offset:1 limit:1000 %}"{{ post.title }}"{% unless forloop.last %},{% endunless %}{% endfor %}]; 
                                                                                                                   
 </script>
 
 
 
-
-
-                  <header class="c-header">
-                <div class="c-header__box">
-                  <div class="c-search">
-                    <div class="c-search__box">
-                      <label for="js-search-input" class="u-screen-reader-text"> Cerca nella rivisteria</label>
-                      <input type="text" id="js-search-input" class="c-search__text" autocomplete="off" placeholder="Cerca nella rivisteria...">
-                      <div data-icon='ei-search' data-size='s'></div>
-                    </div>
-                    <ul id="js-results-container" class="c-search-results-list"></ul>
-                  </div>
-                  <div class="c-nav">
-                    <ul class="c-nav__list u-lists-reset">
-                      <li class="c-nav__item is-active">
-                        <div data-icon='ei-pencil' data-size='s'></div> Racconti</li>
-                        
-                        
-                        
-                        
-                        
-                        <!--<a href="''+postHREF" style="color:#222222"><li class="c-nav__item">-->
-                        <!--<a href="https://mariobarbarino.github.io/random-post/" style="color:#222222"><li class="c-nav__item">-->
-                        
-                        <script type="text/javascript">
+<header class="c-header">
+  <div class="c-header__box">
+    <div class="c-search">
+      <div class="c-search__box">
+        <label for="js-search-input" class="u-screen-reader-text"> Cerca nella rivisteria</label>
+        <input type="text" id="js-search-input" class="c-search__text" autocomplete="off" placeholder="Cerca nella rivisteria...">
+        <div data-icon='ei-search' data-size='s'></div>
+      </div>
+      <ul id="js-results-container" class="c-search-results-list"></ul>
+    </div>
+    <div class="c-nav">
+      <ul class="c-nav__list u-lists-reset">
+        <li class="c-nav__item is-active">
+          <div data-icon='ei-pencil' data-size='s'></div> Racconti</li>
+          
+          
+        <script type="text/javascript">
 
                         var randomIndexUsed = [];
                         var counter = 0;
@@ -51,16 +42,13 @@
                         document.write('<a href="' + postHREF + '" style="color:#222222"><li class="c-nav__item">');
 
                         </script>
-                        
-                        
-            
-                        
-                        
-                        <div data-icon='ei-refresh' data-size='s'></div> Random</li></a>
-                      <li class="c-nav__item">
-                        <div data-icon='ei-star' data-size='s'></div> Riviste</li>
-                    </ul>
-                  </div>
-                </div>
-              </header> <!-- /.c-header -->
-
+          
+          <div data-icon='ei-refresh' data-size='s'></div> Casuale</li></a>
+          
+          
+        <li class="c-nav__item">
+          <div data-icon='ei-star' data-size='s'></div> Riviste</li>
+      </ul>
+    </div>
+  </div>
+</header> <!-- /.c-header -->
