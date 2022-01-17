@@ -1,7 +1,7 @@
 <script type="text/javascript">
 
     var postsHREF = [{% for post in site.posts offset:1 limit:1000 %}"{{ post.url }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
-    var postsTitle = [{% for post in site.posts offset:1 limit:1000 %}"{{ post.title }}"{% unless forloop.last %},{% endunless %}{% endfor %}]; 
+    <!--var postsTitle = [{% for post in site.posts offset:1 limit:1000 %}"{{ post.title }}"{% unless forloop.last %},{% endunless %}{% endfor %}]; -->
                                                                                                                   
 </script>
 
@@ -31,19 +31,19 @@
 
                         var randomIndex;
                         <!-- var postHREF; -->
-                        var postTitle;
+                        <!--var postTitle; -->
 
                         randomIndex = Math.floor(Math.random() * postsHREF.length);
 
 
                         postHREF = postsHREF[randomIndex];
-                        postTitle = postsTitle[randomIndex];
+                        <!--postTitle = postsTitle[randomIndex];-->
 
                         document.write('<a href="' + postHREF + '" style="color:#222222"><li class="c-nav__item">');
 
                         </script>
           
-          <div data-icon='ei-refresh' data-size='s'></div> Casuale</li></a>
+          <div data-icon='ei-refresh' data-size='s'></div> Casualetest</li></a>
           
           
         <li class="c-nav__item">
